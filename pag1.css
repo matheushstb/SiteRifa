@@ -1,0 +1,37 @@
+body{
+    background-color: #886555;
+}
+#lista{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(100, 45, 20);
+    align-items: center;
+    width: 1328px;
+    height: 100px;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+#lista h1, #lista h4{
+    color: #c09b7c;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+#lista h4{
+    padding-left: 180px;
+}
+#lista li{
+    list-style: none;
+}
+
+/*Conteúdo*/
+
+body h1{
+    margin-top: 100px;
+    color: #3d2013;
+}
+
+
+#nomes button{
+    padding-right: 50px;
+}
+
